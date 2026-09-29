@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env (not used — frontend only — but keep out of git if added later)
+.env
+.env.local
